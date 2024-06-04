@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.73522793.css",
-    "main.js": "/my-app/static/js/main.5223ef38.js",
-    "static/js/453.fc860768.chunk.js": "/my-app/static/js/453.fc860768.chunk.js",
-    "index.html": "/my-app/index.html",
-    "main.73522793.css.map": "/my-app/static/css/main.73522793.css.map",
-    "main.5223ef38.js.map": "/my-app/static/js/main.5223ef38.js.map",
-    "453.fc860768.chunk.js.map": "/my-app/static/js/453.fc860768.chunk.js.map"
+    "main.css": "/AGSPERT/static/css/main.73522793.css",
+    "main.js": "/AGSPERT/static/js/main.c0d5f63d.js",
+    "static/js/453.fc860768.chunk.js": "/AGSPERT/static/js/453.fc860768.chunk.js",
+    "index.html": "/AGSPERT/index.html",
+    "main.73522793.css.map": "/AGSPERT/static/css/main.73522793.css.map",
+    "main.c0d5f63d.js.map": "/AGSPERT/static/js/main.c0d5f63d.js.map",
+    "453.fc860768.chunk.js.map": "/AGSPERT/static/js/453.fc860768.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.73522793.css",
-    "static/js/main.5223ef38.js"
+    "static/js/main.c0d5f63d.js"
   ]
 }
