@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AGSPERT/static/css/main.73522793.css",
-    "main.js": "/AGSPERT/static/js/main.c0d5f63d.js",
-    "static/js/453.fc860768.chunk.js": "/AGSPERT/static/js/453.fc860768.chunk.js",
-    "index.html": "/AGSPERT/index.html",
-    "main.73522793.css.map": "/AGSPERT/static/css/main.73522793.css.map",
-    "main.c0d5f63d.js.map": "/AGSPERT/static/js/main.c0d5f63d.js.map",
-    "453.fc860768.chunk.js.map": "/AGSPERT/static/js/453.fc860768.chunk.js.map"
+    "main.css": "/sale-order-management/static/css/main.73522793.css",
+    "main.js": "/sale-order-management/static/js/main.38b89a7a.js",
+    "static/js/453.fc860768.chunk.js": "/sale-order-management/static/js/453.fc860768.chunk.js",
+    "index.html": "/sale-order-management/index.html",
+    "main.73522793.css.map": "/sale-order-management/static/css/main.73522793.css.map",
+    "main.38b89a7a.js.map": "/sale-order-management/static/js/main.38b89a7a.js.map",
+    "453.fc860768.chunk.js.map": "/sale-order-management/static/js/453.fc860768.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.73522793.css",
-    "static/js/main.c0d5f63d.js"
+    "static/js/main.38b89a7a.js"
   ]
 }
