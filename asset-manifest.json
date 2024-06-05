@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sale-order-management/static/css/main.73522793.css",
-    "main.js": "/sale-order-management/static/js/main.38b89a7a.js",
-    "static/js/453.fc860768.chunk.js": "/sale-order-management/static/js/453.fc860768.chunk.js",
-    "index.html": "/sale-order-management/index.html",
-    "main.73522793.css.map": "/sale-order-management/static/css/main.73522793.css.map",
-    "main.38b89a7a.js.map": "/sale-order-management/static/js/main.38b89a7a.js.map",
-    "453.fc860768.chunk.js.map": "/sale-order-management/static/js/453.fc860768.chunk.js.map"
+    "main.css": "/agsperts/static/css/main.73522793.css",
+    "main.js": "/agsperts/static/js/main.a38a2952.js",
+    "static/js/453.cedb9c5f.chunk.js": "/agsperts/static/js/453.cedb9c5f.chunk.js",
+    "index.html": "/agsperts/index.html",
+    "main.73522793.css.map": "/agsperts/static/css/main.73522793.css.map",
+    "main.a38a2952.js.map": "/agsperts/static/js/main.a38a2952.js.map",
+    "453.cedb9c5f.chunk.js.map": "/agsperts/static/js/453.cedb9c5f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.73522793.css",
-    "static/js/main.38b89a7a.js"
+    "static/js/main.a38a2952.js"
   ]
 }
